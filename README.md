@@ -8,5 +8,5 @@
 tghhuglh/tghhuglh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua
+http://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.luahttps://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.luahttps://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua
 
